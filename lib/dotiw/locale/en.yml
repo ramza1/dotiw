@@ -2,14 +2,14 @@ en:
   datetime:
     dotiw:
       seconds:
-        one: 1 second
-        other: "%{count} seconds"
+        one: 1 S
+        other: "%{count} S"
       minutes:
-        one: 1 minute
-        other: "%{count} minutes"
+        one: 1 Min
+        other: "%{count} Min"
       hours:
-        one: 1 hour
-        other: "%{count} hours"
+        one: 1 Hr
+        other: "%{count} Hrs"
       days:
         one: 1 day
         other: "%{count} days"
